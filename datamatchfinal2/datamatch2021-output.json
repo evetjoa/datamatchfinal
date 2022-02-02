@@ -1,0 +1,1721 @@
+[
+  {
+    "school": "Dartmouth",
+    "year": "2023",
+    "signups": 330,
+    "crushes": 46,
+    "search_matches": 134,
+    "enrollment": 4556,
+    "index": 0.4675153643546971
+  },
+  {
+    "school": "Williams",
+    "year": "2023",
+    "signups": 104,
+    "crushes": 16,
+    "search_matches": 63,
+    "enrollment": 1962,
+    "index": 0.45565749235474007
+  },
+  {
+    "school": "BC",
+    "year": "2021",
+    "signups": 288,
+    "crushes": 17,
+    "search_matches": 133,
+    "enrollment": 9445,
+    "index": 0.18930651138168342
+  },
+  {
+    "school": "UW Madison",
+    "year": "2021",
+    "signups": 900,
+    "crushes": 74,
+    "search_matches": 518,
+    "enrollment": 31650,
+    "index": 0.2154818325434439
+  },
+  {
+    "school": "UW Madison",
+    "year": "2024",
+    "signups": 1206,
+    "crushes": 142,
+    "search_matches": 558,
+    "enrollment": 31650,
+    "index": 0.2592733017377567
+  },
+  {
+    "school": "UW Madison",
+    "year": "2022",
+    "signups": 1047,
+    "crushes": 84,
+    "search_matches": 471,
+    "enrollment": 31650,
+    "index": 0.20843601895734598
+  },
+  {
+    "school": "Claremont",
+    "year": "2022",
+    "signups": 339,
+    "crushes": 17,
+    "search_matches": 163,
+    "enrollment": 1262,
+    "index": 1.6949286846275753
+  },
+  {
+    "school": "WashU",
+    "year": "2024",
+    "signups": 816,
+    "crushes": 161,
+    "search_matches": 423,
+    "enrollment": 7395,
+    "index": 0.9000676132521974
+  },
+  {
+    "school": "WashU",
+    "year": "2021",
+    "signups": 660,
+    "crushes": 138,
+    "search_matches": 371,
+    "enrollment": 7395,
+    "index": 0.777552400270453
+  },
+  {
+    "school": "Vanderbilt",
+    "year": "2024",
+    "signups": 352,
+    "crushes": 31,
+    "search_matches": 189,
+    "enrollment": 7057,
+    "index": 0.36162675357800766
+  },
+  {
+    "school": "Caltech",
+    "year": "2023",
+    "signups": 120,
+    "crushes": 54,
+    "search_matches": 77,
+    "enrollment": 987,
+    "index": 1.4488348530901722
+  },
+  {
+    "school": "Harvard",
+    "year": "2021",
+    "signups": 910,
+    "crushes": 442,
+    "search_matches": 465,
+    "enrollment": 7103,
+    "index": 1.4050401238913135
+  },
+  {
+    "school": "Caltech",
+    "year": "2024",
+    "signups": 121,
+    "crushes": 43,
+    "search_matches": 40,
+    "enrollment": 987,
+    "index": 0.9635258358662614
+  },
+  {
+    "school": "UW Madison",
+    "year": "2023",
+    "signups": 1619,
+    "crushes": 204,
+    "search_matches": 587,
+    "enrollment": 31650,
+    "index": 0.3010742496050553
+  },
+  {
+    "school": "Claremont",
+    "year": "2021",
+    "signups": 248,
+    "crushes": 24,
+    "search_matches": 97,
+    "enrollment": 1262,
+    "index": 1.1553090332805072
+  },
+  {
+    "school": "UChicago",
+    "year": "2023",
+    "signups": 482,
+    "crushes": 97,
+    "search_matches": 229,
+    "enrollment": 7559,
+    "index": 0.49503902632623364
+  },
+  {
+    "school": "CMU",
+    "year": "2022",
+    "signups": 110,
+    "crushes": 14,
+    "search_matches": 147,
+    "enrollment": 7073,
+    "index": 0.2431782836137424
+  },
+  {
+    "school": "Vanderbilt",
+    "year": "2023",
+    "signups": 231,
+    "crushes": 28,
+    "search_matches": 103,
+    "enrollment": 7057,
+    "index": 0.2183647442255916
+  },
+  {
+    "school": "Brown",
+    "year": "2021",
+    "signups": 477,
+    "crushes": 114,
+    "search_matches": 193,
+    "enrollment": 6792,
+    "index": 0.5222320376914017
+  },
+  {
+    "school": "WashU",
+    "year": "2022",
+    "signups": 807,
+    "crushes": 221,
+    "search_matches": 360,
+    "enrollment": 7395,
+    "index": 0.8947937795807979
+  },
+  {
+    "school": "UIUC",
+    "year": "2023",
+    "signups": 335,
+    "crushes": 11,
+    "search_matches": 142,
+    "enrollment": 34559,
+    "index": 0.05396568187736914
+  },
+  {
+    "school": "Harvard",
+    "year": "2024",
+    "signups": 865,
+    "crushes": 298,
+    "search_matches": 442,
+    "enrollment": 7103,
+    "index": 1.1635928480923554
+  },
+  {
+    "school": "BU",
+    "year": "2022",
+    "signups": 179,
+    "crushes": 1,
+    "search_matches": 99,
+    "enrollment": 16530,
+    "index": 0.07132486388384755
+  },
+  {
+    "school": "Harvard-MIT",
+    "year": "grad",
+    "signups": 1376,
+    "crushes": 134,
+    "search_matches": 606,
+    "enrollment": 1,
+    "index": 8776.0
+  },
+  {
+    "school": "Yale",
+    "year": "2022",
+    "signups": 605,
+    "crushes": 127,
+    "search_matches": 315,
+    "enrollment": 4664,
+    "index": 1.077401372212693
+  },
+  {
+    "school": "UC Davis",
+    "year": "2022",
+    "signups": 297,
+    "crushes": 7,
+    "search_matches": 168,
+    "enrollment": 30982,
+    "index": 0.06607062165128139
+  },
+  {
+    "school": "McGill",
+    "year": "2024",
+    "signups": 648,
+    "crushes": 101,
+    "search_matches": 300,
+    "enrollment": 26765,
+    "index": 0.17403325238184195
+  },
+  {
+    "school": "Carleton",
+    "year": "2022",
+    "signups": 199,
+    "crushes": 73,
+    "search_matches": 116,
+    "enrollment": 2046,
+    "index": 1.0210166177908113
+  },
+  {
+    "school": "MIT",
+    "year": "2022",
+    "signups": 270,
+    "crushes": 43,
+    "search_matches": 154,
+    "enrollment": 4638,
+    "index": 0.48296679603277276
+  },
+  {
+    "school": "Yale",
+    "year": "2023",
+    "signups": 641,
+    "crushes": 189,
+    "search_matches": 323,
+    "enrollment": 4664,
+    "index": 1.2352058319039452
+  },
+  {
+    "school": "McGill",
+    "year": "2023",
+    "signups": 642,
+    "crushes": 50,
+    "search_matches": 271,
+    "enrollment": 26765,
+    "index": 0.14391929759013639
+  },
+  {
+    "school": "Princeton",
+    "year": "2024",
+    "signups": 323,
+    "crushes": 53,
+    "search_matches": 205,
+    "enrollment": 5267,
+    "index": 0.5511676476172395
+  },
+  {
+    "school": "Bates",
+    "year": "2024",
+    "signups": 61,
+    "crushes": 5,
+    "search_matches": 26,
+    "enrollment": 1876,
+    "index": 0.19776119402985073
+  },
+  {
+    "school": "NYU",
+    "year": "2021",
+    "signups": 31,
+    "crushes": 0,
+    "search_matches": 17,
+    "enrollment": 29700,
+    "index": 0.006767676767676768
+  },
+  {
+    "school": "UPenn",
+    "year": "2023",
+    "signups": 282,
+    "crushes": 38,
+    "search_matches": 147,
+    "enrollment": 10106,
+    "index": 0.21096378389075796
+  },
+  {
+    "school": "McGill",
+    "year": "2022",
+    "signups": 531,
+    "crushes": 63,
+    "search_matches": 204,
+    "enrollment": 26765,
+    "index": 0.11959648795068185
+  },
+  {
+    "school": "Dartmouth",
+    "year": "2024",
+    "signups": 247,
+    "crushes": 25,
+    "search_matches": 117,
+    "enrollment": 4556,
+    "index": 0.36589113257243194
+  },
+  {
+    "school": "UCLA",
+    "year": "2022",
+    "signups": 204,
+    "crushes": 9,
+    "search_matches": 102,
+    "enrollment": 31600,
+    "index": 0.04158227848101266
+  },
+  {
+    "school": "UChicago",
+    "year": "2022",
+    "signups": 417,
+    "crushes": 79,
+    "search_matches": 195,
+    "enrollment": 7559,
+    "index": 0.41764783701547825
+  },
+  {
+    "school": "Furman",
+    "year": "2024",
+    "signups": 206,
+    "crushes": 49,
+    "search_matches": 82,
+    "enrollment": 2345,
+    "index": 0.6464818763326226
+  },
+  {
+    "school": "Harvard-MIT",
+    "year": "2024",
+    "signups": 5,
+    "crushes": 0,
+    "search_matches": 0,
+    "enrollment": 1,
+    "index": 5.0
+  },
+  {
+    "school": "UChicago",
+    "year": "2021",
+    "signups": 282,
+    "crushes": 42,
+    "search_matches": 126,
+    "enrollment": 7559,
+    "index": 0.25955814261145654
+  },
+  {
+    "school": "Claremont",
+    "year": "2023",
+    "signups": 334,
+    "crushes": 34,
+    "search_matches": 170,
+    "enrollment": 1262,
+    "index": 1.8811410459587956
+  },
+  {
+    "school": "BU",
+    "year": "2023",
+    "signups": 264,
+    "crushes": 2,
+    "search_matches": 144,
+    "enrollment": 16530,
+    "index": 0.10429522081064731
+  },
+  {
+    "school": "MIT",
+    "year": "2023",
+    "signups": 272,
+    "crushes": 37,
+    "search_matches": 184,
+    "enrollment": 4638,
+    "index": 0.5351444588184562
+  },
+  {
+    "school": "CMU",
+    "year": "2024",
+    "signups": 116,
+    "crushes": 6,
+    "search_matches": 64,
+    "enrollment": 7073,
+    "index": 0.11536830199349639
+  },
+  {
+    "school": "UW Madison",
+    "year": "grad",
+    "signups": 335,
+    "crushes": 7,
+    "search_matches": 212,
+    "enrollment": 31650,
+    "index": 0.07977883096366509
+  },
+  {
+    "school": "BC",
+    "year": "2023",
+    "signups": 386,
+    "crushes": 18,
+    "search_matches": 172,
+    "enrollment": 9445,
+    "index": 0.2420328215987295
+  },
+  {
+    "school": "Smith",
+    "year": "2024",
+    "signups": 170,
+    "crushes": 7,
+    "search_matches": 73,
+    "enrollment": 2526,
+    "index": 0.384006334125099
+  },
+  {
+    "school": "Furman",
+    "year": "2021",
+    "signups": 204,
+    "crushes": 33,
+    "search_matches": 87,
+    "enrollment": 2345,
+    "index": 0.5987206823027719
+  },
+  {
+    "school": "Brown",
+    "year": "2022",
+    "signups": 586,
+    "crushes": 173,
+    "search_matches": 269,
+    "enrollment": 6792,
+    "index": 0.7370435806831567
+  },
+  {
+    "school": "UPenn",
+    "year": "2021",
+    "signups": 118,
+    "crushes": 8,
+    "search_matches": 57,
+    "enrollment": 10106,
+    "index": 0.07599445873738374
+  },
+  {
+    "school": "USC",
+    "year": "2022",
+    "signups": 143,
+    "crushes": 13,
+    "search_matches": 53,
+    "enrollment": 21000,
+    "index": 0.03823809523809524
+  },
+  {
+    "school": "Furman",
+    "year": "2023",
+    "signups": 260,
+    "crushes": 50,
+    "search_matches": 111,
+    "enrollment": 2345,
+    "index": 0.7974413646055437
+  },
+  {
+    "school": "BC",
+    "year": "2022",
+    "signups": 304,
+    "crushes": 20,
+    "search_matches": 178,
+    "enrollment": 9445,
+    "index": 0.24182106934886183
+  },
+  {
+    "school": "UC Davis",
+    "year": "2021",
+    "signups": 238,
+    "crushes": 14,
+    "search_matches": 121,
+    "enrollment": 30982,
+    "index": 0.05125556774901556
+  },
+  {
+    "school": "Princeton",
+    "year": "2021",
+    "signups": 155,
+    "crushes": 23,
+    "search_matches": 65,
+    "enrollment": 5267,
+    "index": 0.1965065502183406
+  },
+  {
+    "school": "Claremont",
+    "year": "2024",
+    "signups": 310,
+    "crushes": 65,
+    "search_matches": 127,
+    "enrollment": 1262,
+    "index": 1.7670364500792393
+  },
+  {
+    "school": "UC Davis",
+    "year": "2024",
+    "signups": 169,
+    "crushes": 1,
+    "search_matches": 78,
+    "enrollment": 30982,
+    "index": 0.03095345684591053
+  },
+  {
+    "school": "Dartmouth",
+    "year": "2021",
+    "signups": 168,
+    "crushes": 17,
+    "search_matches": 89,
+    "enrollment": 4556,
+    "index": 0.26953467954345917
+  },
+  {
+    "school": "BU",
+    "year": "2024",
+    "signups": 265,
+    "crushes": 9,
+    "search_matches": 136,
+    "enrollment": 16530,
+    "index": 0.10375075620084695
+  },
+  {
+    "school": "Dartmouth",
+    "year": "2022",
+    "signups": 195,
+    "crushes": 17,
+    "search_matches": 90,
+    "enrollment": 4556,
+    "index": 0.2776558384547849
+  },
+  {
+    "school": "Wesleyan",
+    "year": "2023",
+    "signups": 152,
+    "crushes": 23,
+    "search_matches": 70,
+    "enrollment": 2933,
+    "index": 0.3689055574497102
+  },
+  {
+    "school": "UChicago",
+    "year": "2024",
+    "signups": 794,
+    "crushes": 154,
+    "search_matches": 380,
+    "enrollment": 7559,
+    "index": 0.8114830003968779
+  },
+  {
+    "school": "UPenn",
+    "year": "2024",
+    "signups": 314,
+    "crushes": 49,
+    "search_matches": 153,
+    "enrollment": 10106,
+    "index": 0.23095190975658025
+  },
+  {
+    "school": "Furman",
+    "year": "2022",
+    "signups": 264,
+    "crushes": 74,
+    "search_matches": 118,
+    "enrollment": 2345,
+    "index": 0.9313432835820895
+  },
+  {
+    "school": "UCLA",
+    "year": "2024",
+    "signups": 130,
+    "crushes": 5,
+    "search_matches": 50,
+    "enrollment": 31600,
+    "index": 0.021518987341772152
+  },
+  {
+    "school": "Yale",
+    "year": "2021",
+    "signups": 427,
+    "crushes": 111,
+    "search_matches": 172,
+    "enrollment": 4664,
+    "index": 0.698327615780446
+  },
+  {
+    "school": "Columbia",
+    "year": "2024",
+    "signups": 98,
+    "crushes": 12,
+    "search_matches": 57,
+    "enrollment": 8842,
+    "index": 0.08912010857272111
+  },
+  {
+    "school": "McGill",
+    "year": "2021",
+    "signups": 427,
+    "crushes": 45,
+    "search_matches": 174,
+    "enrollment": 26765,
+    "index": 0.09777694750607137
+  },
+  {
+    "school": "Bates",
+    "year": "2023",
+    "signups": 69,
+    "crushes": 3,
+    "search_matches": 27,
+    "enrollment": 1876,
+    "index": 0.19669509594882728
+  },
+  {
+    "school": "Harvard-MIT",
+    "year": "2023",
+    "signups": 44,
+    "crushes": 0,
+    "search_matches": 16,
+    "enrollment": 1,
+    "index": 204.0
+  },
+  {
+    "school": "Williams",
+    "year": "2024",
+    "signups": 71,
+    "crushes": 6,
+    "search_matches": 51,
+    "enrollment": 1962,
+    "index": 0.32670744138634045
+  },
+  {
+    "school": "Harvard",
+    "year": "2023",
+    "signups": 985,
+    "crushes": 512,
+    "search_matches": 463,
+    "enrollment": 7103,
+    "index": 1.5113332394762777
+  },
+  {
+    "school": "Brown",
+    "year": "2024",
+    "signups": 635,
+    "crushes": 95,
+    "search_matches": 342,
+    "enrollment": 6792,
+    "index": 0.7368963486454653
+  },
+  {
+    "school": "UC Davis",
+    "year": "grad",
+    "signups": 70,
+    "crushes": 4,
+    "search_matches": 23,
+    "enrollment": 30982,
+    "index": 0.010974114001678394
+  },
+  {
+    "school": "Wesleyan",
+    "year": "2022",
+    "signups": 205,
+    "crushes": 42,
+    "search_matches": 107,
+    "enrollment": 2933,
+    "index": 0.5779065802932152
+  },
+  {
+    "school": "FIT",
+    "year": "2021",
+    "signups": 59,
+    "crushes": 1,
+    "search_matches": 48,
+    "enrollment": 1,
+    "index": 549.0
+  },
+  {
+    "school": "Brown",
+    "year": "2023",
+    "signups": 526,
+    "crushes": 131,
+    "search_matches": 265,
+    "enrollment": 6792,
+    "index": 0.6604829210836278
+  },
+  {
+    "school": "Smith",
+    "year": "2022",
+    "signups": 124,
+    "crushes": 11,
+    "search_matches": 91,
+    "enrollment": 2526,
+    "index": 0.45288994457640536
+  },
+  {
+    "school": "UCSD",
+    "year": "2023",
+    "signups": 244,
+    "crushes": 15,
+    "search_matches": 113,
+    "enrollment": 31842,
+    "index": 0.047861315244017336
+  },
+  {
+    "school": "Harvard",
+    "year": "grad",
+    "signups": 27,
+    "crushes": 0,
+    "search_matches": 15,
+    "enrollment": 7103,
+    "index": 0.02491904828945516
+  },
+  {
+    "school": "WashU",
+    "year": "2023",
+    "signups": 886,
+    "crushes": 292,
+    "search_matches": 429,
+    "enrollment": 7395,
+    "index": 1.0947937795807978
+  },
+  {
+    "school": "Columbia",
+    "year": "2022",
+    "signups": 121,
+    "crushes": 4,
+    "search_matches": 78,
+    "enrollment": 8842,
+    "index": 0.10642388599864284
+  },
+  {
+    "school": "Princeton",
+    "year": "2022",
+    "signups": 266,
+    "crushes": 34,
+    "search_matches": 97,
+    "enrollment": 5267,
+    "index": 0.2992215682551737
+  },
+  {
+    "school": "Harvard",
+    "year": "2022",
+    "signups": 891,
+    "crushes": 448,
+    "search_matches": 341,
+    "enrollment": 7103,
+    "index": 1.2362382092073771
+  },
+  {
+    "school": "BC",
+    "year": "2024",
+    "signups": 156,
+    "crushes": 0,
+    "search_matches": 93,
+    "enrollment": 9445,
+    "index": 0.11498147167813658
+  },
+  {
+    "school": "Caltech",
+    "year": "2021",
+    "signups": 76,
+    "crushes": 16,
+    "search_matches": 21,
+    "enrollment": 987,
+    "index": 0.4518743667679838
+  },
+  {
+    "school": "UPenn",
+    "year": "2022",
+    "signups": 249,
+    "crushes": 13,
+    "search_matches": 118,
+    "enrollment": 10106,
+    "index": 0.15426479319216307
+  },
+  {
+    "school": "Carleton",
+    "year": "2023",
+    "signups": 230,
+    "crushes": 61,
+    "search_matches": 94,
+    "enrollment": 2046,
+    "index": 0.8699902248289345
+  },
+  {
+    "school": "USC",
+    "year": "2021",
+    "signups": 85,
+    "crushes": 1,
+    "search_matches": 73,
+    "enrollment": 21000,
+    "index": 0.039285714285714285
+  },
+  {
+    "school": "Carleton",
+    "year": "grad",
+    "signups": 5,
+    "crushes": 0,
+    "search_matches": 0,
+    "enrollment": 2046,
+    "index": 0.0024437927663734115
+  },
+  {
+    "school": "UIUC",
+    "year": "2021",
+    "signups": 101,
+    "crushes": 1,
+    "search_matches": 44,
+    "enrollment": 34559,
+    "index": 0.015943748372348736
+  },
+  {
+    "school": "Harvard-MIT",
+    "year": "2022",
+    "signups": 115,
+    "crushes": 9,
+    "search_matches": 58,
+    "enrollment": 1,
+    "index": 785.0
+  },
+  {
+    "school": "Smith",
+    "year": "2021",
+    "signups": 105,
+    "crushes": 17,
+    "search_matches": 41,
+    "enrollment": 2526,
+    "index": 0.27117973079968327
+  },
+  {
+    "school": "McGill",
+    "year": "grad",
+    "signups": 86,
+    "crushes": 2,
+    "search_matches": 36,
+    "enrollment": 26765,
+    "index": 0.01741079768354194
+  },
+  {
+    "school": "Wesleyan",
+    "year": "2024",
+    "signups": 111,
+    "crushes": 9,
+    "search_matches": 34,
+    "enrollment": 2933,
+    "index": 0.1844527787248551
+  },
+  {
+    "school": "Yale",
+    "year": "grad",
+    "signups": 31,
+    "crushes": 1,
+    "search_matches": 10,
+    "enrollment": 4664,
+    "index": 0.03023156089193825
+  },
+  {
+    "school": "Carleton",
+    "year": "2021",
+    "signups": 163,
+    "crushes": 42,
+    "search_matches": 66,
+    "enrollment": 2046,
+    "index": 0.6075268817204301
+  },
+  {
+    "school": "Princeton",
+    "year": "2023",
+    "signups": 356,
+    "crushes": 51,
+    "search_matches": 172,
+    "enrollment": 5267,
+    "index": 0.4909815834440858
+  },
+  {
+    "school": "UC Davis",
+    "year": "2023",
+    "signups": 209,
+    "crushes": 4,
+    "search_matches": 65,
+    "enrollment": 30982,
+    "index": 0.029016848492673164
+  },
+  {
+    "school": "Carleton",
+    "year": "2024",
+    "signups": 264,
+    "crushes": 89,
+    "search_matches": 134,
+    "enrollment": 2046,
+    "index": 1.2189638318670577
+  },
+  {
+    "school": "Columbia",
+    "year": "2023",
+    "signups": 132,
+    "crushes": 2,
+    "search_matches": 56,
+    "enrollment": 8842,
+    "index": 0.08052476815200181
+  },
+  {
+    "school": "Smith",
+    "year": "2023",
+    "signups": 178,
+    "crushes": 39,
+    "search_matches": 87,
+    "enrollment": 2526,
+    "index": 0.569279493269992
+  },
+  {
+    "school": "Bates",
+    "year": "2021",
+    "signups": 81,
+    "crushes": 7,
+    "search_matches": 70,
+    "enrollment": 1876,
+    "index": 0.45362473347547977
+  },
+  {
+    "school": "UIUC",
+    "year": "2022",
+    "signups": 226,
+    "crushes": 16,
+    "search_matches": 84,
+    "enrollment": 34559,
+    "index": 0.0354755635290373
+  },
+  {
+    "school": "Yale",
+    "year": "2024",
+    "signups": 711,
+    "crushes": 183,
+    "search_matches": 280,
+    "enrollment": 4664,
+    "index": 1.1451543739279588
+  },
+  {
+    "school": "USC",
+    "year": "2023",
+    "signups": 106,
+    "crushes": 4,
+    "search_matches": 37,
+    "enrollment": 21000,
+    "index": 0.02457142857142857
+  },
+  {
+    "school": "BU",
+    "year": "alumni",
+    "signups": 3,
+    "crushes": 0,
+    "search_matches": 0,
+    "enrollment": 16530,
+    "index": 0.00018148820326678765
+  },
+  {
+    "school": "UCSD",
+    "year": "2021",
+    "signups": 94,
+    "crushes": 3,
+    "search_matches": 36,
+    "enrollment": 31842,
+    "index": 0.015200050248099993
+  },
+  {
+    "school": "Harvard-MIT",
+    "year": "2021",
+    "signups": 135,
+    "crushes": 10,
+    "search_matches": 82,
+    "enrollment": 1,
+    "index": 1055.0
+  },
+  {
+    "school": "LMU",
+    "year": "2024",
+    "signups": 53,
+    "crushes": 0,
+    "search_matches": 23,
+    "enrollment": 1,
+    "index": 283.0
+  },
+  {
+    "school": "Vanderbilt",
+    "year": "2021",
+    "signups": 58,
+    "crushes": 3,
+    "search_matches": 32,
+    "enrollment": 7057,
+    "index": 0.05781493552501063
+  },
+  {
+    "school": "Cornell",
+    "year": "2021",
+    "signups": 13,
+    "crushes": 0,
+    "search_matches": 5,
+    "enrollment": 1,
+    "index": 63.0
+  },
+  {
+    "school": "NYU",
+    "year": "2024",
+    "signups": 78,
+    "crushes": 7,
+    "search_matches": 36,
+    "enrollment": 29700,
+    "index": 0.017104377104377105
+  },
+  {
+    "school": "UCLA",
+    "year": "2023",
+    "signups": 240,
+    "crushes": 4,
+    "search_matches": 178,
+    "enrollment": 31600,
+    "index": 0.06518987341772152
+  },
+  {
+    "school": "McGill",
+    "year": "alumni",
+    "signups": 6,
+    "crushes": 0,
+    "search_matches": 4,
+    "enrollment": 26765,
+    "index": 0.001718662432280964
+  },
+  {
+    "school": "MIT",
+    "year": "2024",
+    "signups": 149,
+    "crushes": 19,
+    "search_matches": 120,
+    "enrollment": 4638,
+    "index": 0.3318240620957309
+  },
+  {
+    "school": "NYU",
+    "year": "2023",
+    "signups": 59,
+    "crushes": 0,
+    "search_matches": 30,
+    "enrollment": 29700,
+    "index": 0.012087542087542088
+  },
+  {
+    "school": "USC",
+    "year": "2024",
+    "signups": 69,
+    "crushes": 0,
+    "search_matches": 33,
+    "enrollment": 21000,
+    "index": 0.019
+  },
+  {
+    "school": "LMU",
+    "year": "2022",
+    "signups": 70,
+    "crushes": 3,
+    "search_matches": 25,
+    "enrollment": 1,
+    "index": 350.0
+  },
+  {
+    "school": "WashU",
+    "year": "grad",
+    "signups": 63,
+    "crushes": 5,
+    "search_matches": 29,
+    "enrollment": 7395,
+    "index": 0.05449628127112914
+  },
+  {
+    "school": "Wesleyan",
+    "year": "2021",
+    "signups": 172,
+    "crushes": 22,
+    "search_matches": 68,
+    "enrollment": 2933,
+    "index": 0.36549607909989773
+  },
+  {
+    "school": "UIUC",
+    "year": "2024",
+    "signups": 151,
+    "crushes": 4,
+    "search_matches": 92,
+    "enrollment": 34559,
+    "index": 0.03214792094678665
+  },
+  {
+    "school": "LMU",
+    "year": "2023",
+    "signups": 48,
+    "crushes": 5,
+    "search_matches": 44,
+    "enrollment": 1,
+    "index": 538.0
+  },
+  {
+    "school": "BU",
+    "year": "2021",
+    "signups": 114,
+    "crushes": 0,
+    "search_matches": 51,
+    "enrollment": 16530,
+    "index": 0.037749546279491834
+  },
+  {
+    "school": "Columbia",
+    "year": "2021",
+    "signups": 158,
+    "crushes": 3,
+    "search_matches": 80,
+    "enrollment": 8842,
+    "index": 0.11173942546935083
+  },
+  {
+    "school": "Dartmouth",
+    "year": "grad",
+    "signups": 6,
+    "crushes": 0,
+    "search_matches": 10,
+    "enrollment": 4556,
+    "index": 0.023266022827041263
+  },
+  {
+    "school": "FIT",
+    "year": "2024",
+    "signups": 60,
+    "crushes": 1,
+    "search_matches": 67,
+    "enrollment": 1,
+    "index": 740.0
+  },
+  {
+    "school": "CMU",
+    "year": "2023",
+    "signups": 130,
+    "crushes": 19,
+    "search_matches": 48,
+    "enrollment": 7073,
+    "index": 0.11310617842499647
+  },
+  {
+    "school": "Vanderbilt",
+    "year": "2022",
+    "signups": 104,
+    "crushes": 8,
+    "search_matches": 56,
+    "enrollment": 7057,
+    "index": 0.10542723536913702
+  },
+  {
+    "school": "NYU",
+    "year": "grad",
+    "signups": 10,
+    "crushes": 0,
+    "search_matches": 3,
+    "enrollment": 29700,
+    "index": 0.0013468013468013469
+  },
+  {
+    "school": "Harvard-MIT",
+    "year": "alumni",
+    "signups": 8,
+    "crushes": 0,
+    "search_matches": 8,
+    "enrollment": 1,
+    "index": 88.0
+  },
+  {
+    "school": "UCSD",
+    "year": "2022",
+    "signups": 177,
+    "crushes": 17,
+    "search_matches": 68,
+    "enrollment": 31842,
+    "index": 0.03225299918346838
+  },
+  {
+    "school": "Cornell",
+    "year": "2024",
+    "signups": 14,
+    "crushes": 1,
+    "search_matches": 11,
+    "enrollment": 1,
+    "index": 134.0
+  },
+  {
+    "school": "Bates",
+    "year": "2022",
+    "signups": 66,
+    "crushes": 3,
+    "search_matches": 14,
+    "enrollment": 1876,
+    "index": 0.1257995735607676
+  },
+  {
+    "school": "UCSD",
+    "year": "2024",
+    "signups": 195,
+    "crushes": 18,
+    "search_matches": 99,
+    "enrollment": 31842,
+    "index": 0.04286791030714151
+  },
+  {
+    "school": "Williams",
+    "year": "2021",
+    "signups": 66,
+    "crushes": 15,
+    "search_matches": 28,
+    "enrollment": 1962,
+    "index": 0.2528032619775739
+  },
+  {
+    "school": "Caltech",
+    "year": "grad",
+    "signups": 7,
+    "crushes": 0,
+    "search_matches": 1,
+    "enrollment": 987,
+    "index": 0.017223910840932118
+  },
+  {
+    "school": "CMU",
+    "year": "grad",
+    "signups": 46,
+    "crushes": 2,
+    "search_matches": 22,
+    "enrollment": 7073,
+    "index": 0.04043545878693624
+  },
+  {
+    "school": "Williams",
+    "year": "2022",
+    "signups": 67,
+    "crushes": 5,
+    "search_matches": 34,
+    "enrollment": 1962,
+    "index": 0.2329255861365953
+  },
+  {
+    "school": "UCLA",
+    "year": "2021",
+    "signups": 115,
+    "crushes": 5,
+    "search_matches": 60,
+    "enrollment": 31600,
+    "index": 0.02420886075949367
+  },
+  {
+    "school": "FIT",
+    "year": "2022",
+    "signups": 84,
+    "crushes": 4,
+    "search_matches": 57,
+    "enrollment": 1,
+    "index": 694.0
+  },
+  {
+    "school": "Brown",
+    "year": "grad",
+    "signups": 27,
+    "crushes": 3,
+    "search_matches": 10,
+    "enrollment": 6792,
+    "index": 0.02311542991755006
+  },
+  {
+    "school": "BU",
+    "year": "grad",
+    "signups": 32,
+    "crushes": 0,
+    "search_matches": 12,
+    "enrollment": 16530,
+    "index": 0.009195402298850575
+  },
+  {
+    "school": "CMU",
+    "year": "2021",
+    "signups": 86,
+    "crushes": 24,
+    "search_matches": 34,
+    "enrollment": 7073,
+    "index": 0.09416089353880956
+  },
+  {
+    "school": "MIT",
+    "year": "2021",
+    "signups": 161,
+    "crushes": 27,
+    "search_matches": 62,
+    "enrollment": 4638,
+    "index": 0.22660629581716257
+  },
+  {
+    "school": "UPenn",
+    "year": "grad",
+    "signups": 25,
+    "crushes": 3,
+    "search_matches": 23,
+    "enrollment": 10106,
+    "index": 0.028201068672075995
+  },
+  {
+    "school": "Cornell",
+    "year": "2022",
+    "signups": 20,
+    "crushes": 0,
+    "search_matches": 16,
+    "enrollment": 1,
+    "index": 180.0
+  },
+  {
+    "school": "Claremont",
+    "year": "alumni",
+    "signups": 2,
+    "crushes": 0,
+    "search_matches": 4,
+    "enrollment": 1262,
+    "index": 0.03328050713153724
+  },
+  {
+    "school": "Caltech",
+    "year": "2022",
+    "signups": 100,
+    "crushes": 29,
+    "search_matches": 39,
+    "enrollment": 987,
+    "index": 0.790273556231003
+  },
+  {
+    "school": "NYU",
+    "year": "2022",
+    "signups": 52,
+    "crushes": 0,
+    "search_matches": 20,
+    "enrollment": 29700,
+    "index": 0.008484848484848486
+  },
+  {
+    "school": "LMU",
+    "year": "2021",
+    "signups": 19,
+    "crushes": 2,
+    "search_matches": 7,
+    "enrollment": 1,
+    "index": 109.0
+  },
+  {
+    "school": "Wellesley",
+    "year": "2024",
+    "signups": 2,
+    "crushes": 0,
+    "search_matches": 1,
+    "enrollment": 1,
+    "index": 12.0
+  },
+  {
+    "school": "UCSD",
+    "year": "grad",
+    "signups": 19,
+    "crushes": 0,
+    "search_matches": 20,
+    "enrollment": 31842,
+    "index": 0.006877708686640286
+  },
+  {
+    "school": "Columbia",
+    "year": "grad",
+    "signups": 29,
+    "crushes": 1,
+    "search_matches": 9,
+    "enrollment": 8842,
+    "index": 0.01458945939832617
+  },
+  {
+    "school": "USC",
+    "year": "grad",
+    "signups": 14,
+    "crushes": 0,
+    "search_matches": 4,
+    "enrollment": 21000,
+    "index": 0.0025714285714285713
+  },
+  {
+    "school": "FIT",
+    "year": "2023",
+    "signups": 92,
+    "crushes": 1,
+    "search_matches": 41,
+    "enrollment": 1,
+    "index": 512.0
+  },
+  {
+    "school": "UCLA",
+    "year": "grad",
+    "signups": 15,
+    "crushes": 1,
+    "search_matches": 3,
+    "enrollment": 31600,
+    "index": 0.001740506329113924
+  },
+  {
+    "school": "Princeton",
+    "year": "grad",
+    "signups": 9,
+    "crushes": 0,
+    "search_matches": 4,
+    "enrollment": 5267,
+    "index": 0.009303208657679893
+  },
+  {
+    "school": "Cornell",
+    "year": "2023",
+    "signups": 12,
+    "crushes": 0,
+    "search_matches": 5,
+    "enrollment": 1,
+    "index": 62.0
+  },
+  {
+    "school": "UChicago",
+    "year": "grad",
+    "signups": 25,
+    "crushes": 2,
+    "search_matches": 9,
+    "enrollment": 7559,
+    "index": 0.017859505225558937
+  },
+  {
+    "school": "MIT",
+    "year": "grad",
+    "signups": 4,
+    "crushes": 0,
+    "search_matches": 1,
+    "enrollment": 4638,
+    "index": 0.00301854247520483
+  },
+  {
+    "school": "CMU",
+    "year": "alumni",
+    "signups": 2,
+    "crushes": 0,
+    "search_matches": 0,
+    "enrollment": 7073,
+    "index": 0.0002827654460624912
+  },
+  {
+    "school": "UIUC",
+    "year": "grad",
+    "signups": 25,
+    "crushes": 0,
+    "search_matches": 4,
+    "enrollment": 34559,
+    "index": 0.0018808414595329725
+  },
+  {
+    "school": "Claremont",
+    "year": "grad",
+    "signups": 4,
+    "crushes": 0,
+    "search_matches": 2,
+    "enrollment": 1262,
+    "index": 0.01901743264659271
+  },
+  {
+    "school": "Wesleyan",
+    "year": "grad",
+    "signups": 4,
+    "crushes": 0,
+    "search_matches": 1,
+    "enrollment": 2933,
+    "index": 0.00477326968973747
+  },
+  {
+    "school": "Harvard",
+    "year": "alumni",
+    "signups": 10,
+    "crushes": 0,
+    "search_matches": 12,
+    "enrollment": 7103,
+    "index": 0.0183021258623117
+  },
+  {
+    "school": "Cornell",
+    "year": "grad",
+    "signups": 6,
+    "crushes": 0,
+    "search_matches": 0,
+    "enrollment": 1,
+    "index": 6.0
+  },
+  {
+    "school": "Vanderbilt",
+    "year": "grad",
+    "signups": 5,
+    "crushes": 0,
+    "search_matches": 0,
+    "enrollment": 7057,
+    "index": 0.0007085163667280714
+  },
+  {
+    "school": "Wellesley",
+    "year": "2023",
+    "signups": 1,
+    "crushes": 0,
+    "search_matches": 0,
+    "enrollment": 1,
+    "index": 1.0
+  },
+  {
+    "school": "UC Davis",
+    "year": "alumni",
+    "signups": 4,
+    "crushes": 0,
+    "search_matches": 5,
+    "enrollment": 30982,
+    "index": 0.0017429475179136272
+  },
+  {
+    "school": "Columbia",
+    "year": "alumni",
+    "signups": 2,
+    "crushes": 0,
+    "search_matches": 0,
+    "enrollment": 8842,
+    "index": 0.00022619316896629722
+  },
+  {
+    "school": "BC",
+    "year": "grad",
+    "signups": 2,
+    "crushes": 0,
+    "search_matches": 1,
+    "enrollment": 9445,
+    "index": 0.001270513499205929
+  },
+  {
+    "school": "Bates",
+    "year": "grad",
+    "signups": 2,
+    "crushes": 0,
+    "search_matches": 3,
+    "enrollment": 1876,
+    "index": 0.017057569296375266
+  },
+  {
+    "school": "UC Berkeley",
+    "year": "2023",
+    "signups": 1,
+    "crushes": 0,
+    "search_matches": 0,
+    "enrollment": 1,
+    "index": 1.0
+  },
+  {
+    "school": "UW Madison",
+    "year": "alumni",
+    "signups": 3,
+    "crushes": 2,
+    "search_matches": 0,
+    "enrollment": 31650,
+    "index": 0.0007266982622432859
+  },
+  {
+    "school": "Caltech",
+    "year": "alumni",
+    "signups": 3,
+    "crushes": 0,
+    "search_matches": 2,
+    "enrollment": 987,
+    "index": 0.02330293819655522
+  },
+  {
+    "school": "Yale",
+    "year": "alumni",
+    "signups": 3,
+    "crushes": 0,
+    "search_matches": 0,
+    "enrollment": 4664,
+    "index": 0.0006432246998284735
+  },
+  {
+    "school": "FIT",
+    "year": "grad",
+    "signups": 8,
+    "crushes": 0,
+    "search_matches": 6,
+    "enrollment": 1,
+    "index": 68.0
+  },
+  {
+    "school": "Smith",
+    "year": "grad",
+    "signups": 3,
+    "crushes": 0,
+    "search_matches": 0,
+    "enrollment": 2526,
+    "index": 0.0011876484560570072
+  },
+  {
+    "school": "Williams",
+    "year": "grad",
+    "signups": 2,
+    "crushes": 0,
+    "search_matches": 0,
+    "enrollment": 1962,
+    "index": 0.0010193679918450561
+  },
+  {
+    "school": "MIT",
+    "year": "alumni",
+    "signups": 1,
+    "crushes": 0,
+    "search_matches": 0,
+    "enrollment": 4638,
+    "index": 0.00021561017680034498
+  },
+  {
+    "school": "UChicago",
+    "year": "alumni",
+    "signups": 2,
+    "crushes": 1,
+    "search_matches": 4,
+    "enrollment": 7559,
+    "index": 0.006879216827622702
+  },
+  {
+    "school": "WashU",
+    "year": "alumni",
+    "signups": 1,
+    "crushes": 0,
+    "search_matches": 0,
+    "enrollment": 7395,
+    "index": 0.0001352265043948614
+  },
+  {
+    "school": "UIUC",
+    "year": "alumni",
+    "signups": 1,
+    "crushes": 0,
+    "search_matches": 0,
+    "enrollment": 34559,
+    "index": 2.8936022454353425e-5
+  },
+  {
+    "school": "Carleton",
+    "year": "alumni",
+    "signups": 1,
+    "crushes": 0,
+    "search_matches": 1,
+    "enrollment": 2046,
+    "index": 0.005376344086021506
+  },
+  {
+    "school": "UW",
+    "year": "2021",
+    "signups": 1,
+    "crushes": 0,
+    "search_matches": 0,
+    "enrollment": 1,
+    "index": 1.0
+  },
+  {
+    "school": "Tufts",
+    "year": "2023",
+    "signups": 1,
+    "crushes": 0,
+    "search_matches": 0,
+    "enrollment": 1,
+    "index": 1.0
+  },
+  {
+    "school": "UW",
+    "year": "2022",
+    "signups": 2,
+    "crushes": 0,
+    "search_matches": 0,
+    "enrollment": 1,
+    "index": 2.0
+  },
+  {
+    "school": "UCLA",
+    "year": "alumni",
+    "signups": 1,
+    "crushes": 0,
+    "search_matches": 0,
+    "enrollment": 31600,
+    "index": 3.1645569620253167e-5
+  }
+]
